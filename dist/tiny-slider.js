@@ -1,5 +1,5 @@
 /** DOMTokenList polyfill */
-module.exports = (function(){
+(function(){
 	"use strict";
 	
 	/*<*/
@@ -2133,3 +2133,5 @@ var tns = (function () {
 
   return core;
 })();
+
+module.exports = tns;
