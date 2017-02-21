@@ -1,5 +1,5 @@
 /** DOMTokenList polyfill */
-(function(){
+module.exports = (function(){
 	"use strict";
 	
 	/*<*/
