@@ -6,7 +6,7 @@
   * @github https://github.com/ganlanyuan/tiny-slider/
   */
 
-module.exports = (function () {
+(function () {
   'use strict';
 
   var TRANSFORM = gn.getSupportedProp([
@@ -1575,3 +1575,5 @@ module.exports = (function () {
 
   return core;
 })();
+
+module.exports = tns;
